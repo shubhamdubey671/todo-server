@@ -24,7 +24,7 @@ function deleteItemIndex(arr, id) {
 app.use(bodyParser.json());
 app.use(cors(
   {
-    origin: ["git a"],
+    origin: ["https://todo-client-ruby.vercel.app"],
   }
 ));
 
